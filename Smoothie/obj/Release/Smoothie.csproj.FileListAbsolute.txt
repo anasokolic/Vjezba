@@ -1,0 +1,6 @@
+C:\Users\anaso\source\repos\Smoothie\Smoothie\bin\Release\Smoothie.exe.config
+C:\Users\anaso\source\repos\Smoothie\Smoothie\bin\Release\Smoothie.exe
+C:\Users\anaso\source\repos\Smoothie\Smoothie\bin\Release\Smoothie.pdb
+C:\Users\anaso\source\repos\Smoothie\Smoothie\obj\Release\Smoothie.csproj.CoreCompileInputs.cache
+C:\Users\anaso\source\repos\Smoothie\Smoothie\obj\Release\Smoothie.exe
+C:\Users\anaso\source\repos\Smoothie\Smoothie\obj\Release\Smoothie.pdb

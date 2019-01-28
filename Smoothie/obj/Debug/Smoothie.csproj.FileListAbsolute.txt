@@ -1,0 +1,7 @@
+C:\Users\anaso\source\repos\Smoothie\Smoothie\bin\Debug\Smoothie.exe.config
+C:\Users\anaso\source\repos\Smoothie\Smoothie\bin\Debug\Smoothie.exe
+C:\Users\anaso\source\repos\Smoothie\Smoothie\bin\Debug\Smoothie.pdb
+C:\Users\anaso\source\repos\Smoothie\Smoothie\obj\Debug\Smoothie.csprojAssemblyReference.cache
+C:\Users\anaso\source\repos\Smoothie\Smoothie\obj\Debug\Smoothie.csproj.CoreCompileInputs.cache
+C:\Users\anaso\source\repos\Smoothie\Smoothie\obj\Debug\Smoothie.exe
+C:\Users\anaso\source\repos\Smoothie\Smoothie\obj\Debug\Smoothie.pdb
